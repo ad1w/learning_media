@@ -13,7 +13,11 @@ membayangkan terjadinya proses tersebut, maka pada penelitian ini saya membuat a
 siswa dapat melihat secara langsung fenomena-fenomena seputar cahaya. 
 
 ## 🚀 Design dan Cara Kerja
-Berikut merupakan tampilan alat peraga difraksi cahaya tersebut: \
+Berikut merupakan tampilan alat peraga difraksi cahaya tersebut:
+<p align="center">
+<img height="400" width="800" src="https://github.com/ad1w/learning_media/blob/main/Diffraction%20Interference%20of%20Light/design.png" alt="image" />
+</p>
+
 Pada pengembangan ini saya memanfaatkan laser sabagai sumber sinar dan potongan (bingkai) sim-card
 bekas sebagai celah yang akan dilalui sinar sebelum menuju ke layar tangkap. Sinar yang melewati celah
 akan membentuk suatu pola unik dengan intensitas cahaya yang semakin redup ke samping. Bentuk pola
