@@ -14,6 +14,7 @@ mampu diajarkan di jenjang sekolah dasar. Berikut merupakan desain alat yang dib
 
 ## 🚀 Design dan Cara Kerja
 Berikut merupakan design topin: \
+<img align="right" height="192" width="341" src="https://github.com/ad1w/learning_media/blob/main/Topin%20(Tong%20Pintar)/design.png" alt="image" />
 Alat ini bekerja sesuai instruksi berupa adanya benda yang dideteksi oleh sensor pada jarak
 tertentu. Saat terdapat benda yang terdeteksi, sinyal tersebut akan dikirimkan oleh sensor ke
 mikrokontroler arduino untuk diproses, outputnya adalah arduino akan menggerakkan servo
