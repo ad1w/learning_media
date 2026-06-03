@@ -33,6 +33,9 @@ memperoleh grafik pola difraksi dan nilai-nilai yang dibutuhkan pengamat, misaln
 pada suatu titik. Pada uji coba alat peraga ini saya menggunakan dua variabel yakni jarak celah ke layar
 tangkap dan ukuran lebar celah yang dapat dilihat secara lengkap pada tautan yang saya sematkan di atas.
 Berikut merupakan hasil uji coba menggunakan variabel jarak celah ke layar tangkap:
+<p align="center">
+<img height="400" width="800" src="https://github.com/ad1w/learning_media/blob/main/Diffraction%20Interference%20of%20Light/hasil.png" alt="image" />
+</p>
 
 ## 🎫 Sources
 - Aplikasi Tracker: https://opensourcephysics.github.io/tracker-website/
